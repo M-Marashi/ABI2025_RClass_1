@@ -1,8 +1,6 @@
 ---
 title: "Cute penguins"
-format: 
-  docx:
-  reference-doc:  F:/Aktenschrank/Analysen/R/Rtemplate1.docx
+format: docx
 editor: visual
 execute: 
   echo: false

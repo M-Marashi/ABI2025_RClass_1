@@ -1,0 +1,2 @@
+options(prompt='RClass25_1: ')
+options(continue='tell me more: ')
